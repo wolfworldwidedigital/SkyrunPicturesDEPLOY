@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "icon": "pe-7s-paint-bucket",
+    "title": "Movie Production",
+    "content": "Tempore corrupti temporibus fuga earum asperiores fugit laudantium."
+  },
+  {
+    "id": 2,
+    "icon": "pe-7s-phone",
+    "title": "Script Writing",
+    "content": "Tempore corrupti temporibus fuga earum asperiores fugit."
+  },
+  {
+    "id": 3,
+    "icon": "pe-7s-display1",
+    "title": "Equipment Renting",
+    "content": "Tempore corrupti temporibus fuga earum asperiores fugit."
+  },
+  {
+    "id": 4,
+    "icon": "pe-7s-diskette",
+    "title": "Actor Sourcing",
+    "content": "Tempore corrupti temporibus fuga earum asperiores fugit laudantium."
+  }
+]
